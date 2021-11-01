@@ -952,7 +952,7 @@ else
 p.Transparency = 0
 end
 local m = Instance.new("SpecialMesh",p)
-m.MeshId = "rbxassetid://20329976"
+m.MeshId = "rbxassetid://2034429976"
 m.Scale = meshstart
 coroutine.wrap(function()
 for i=0,1,factor do
@@ -983,7 +983,7 @@ else
 p.Transparency = 0
 end
 local m = Instance.new("SpecialMesh",p)
-m.MeshId = "rbxassetid://3270017"
+m.MeshId = "rbxassetid://324470017"
 m.Scale = meshstart
 coroutine.wrap(function()
 for i=0,1,factor do
@@ -1191,8 +1191,8 @@ RHe.Transparency = 0
 PMesh = IT("SpecialMesh")
 RHe.formFactor =  "Symmetric"
 PMesh.MeshType = "FileMesh"
-PMesh.MeshId = "rbxassetid://19106014"
-PMesh.TextureId = "rbxassetid://342435650"
+PMesh.MeshId = "rbxassetid://1910604414"
+PMesh.TextureId = "rbxassetid://34243544650"
 PMesh.Scale = Vector3.new(1, 1.4, 0.8)
 PMesh.Parent = RHe
 local RWeld = IT("Weld")
